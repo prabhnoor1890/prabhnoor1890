@@ -1,16 +1,35 @@
 ## Hi there 👋
+ # 👋 Hello, I'm Prabhnoor Singh
 
-<!--
-**prabhnoor1890/prabhnoor1890** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ### 🎓 B.Tech Student at IIIT Sonepat | Aspiring Quant Engineer & Data Analyst
 
-Here are some ideas to get you started:
+  I am a mathematically curious developer focused on the intersection of **Quantitative Finance, Programming, and Data Analysis**. I believe in solving
+  complex financial problems through first-principles thinking and rigorous mathematical modeling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ---
+
+  ### 🎯 My Focus Areas
+  - **Mathematics:** Linear Algebra, Calculus, Probability & Statistics.
+  - **Quantitative Finance:** Algorithmic Trading, Financial Modeling, Market Analysis.
+  - **Technical Stack:** C Programming, Python (Learning), SQL (Learning), Data Structures.
+
+  ### 🚀 Current Mission
+  Currently participating in the **NSUT FinTech Hackathon 2026**, exploring innovative ways to combine computational methods with financial markets.
+
+  ### 🛠️ Technical Toolkit
+  - **Languages:** `C`, `Python (Learning)`, `SQL (Developing)`
+  - **Interests:** `Quant Research`, `Data Visualization`, `Statistical Modeling`
+  - **Tools:** `Git`, `GitHub`, `VS Code`
+
+
+  ---
+
+  ### 🌐 Connect with me
+  - 💻 **Portfolio:** [Your-Vercel-Link-Here]
+  - 💼 **LinkedIn:** www.linkedin.com/in/prabhnoor-singh-2a7452221
+  - 📧 **Email:** prabhnoordel@gmail.com
+
+  *"In God we trust, all others must bring data."* — W. Edwards Deming
+
+  ---
+
